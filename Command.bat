@@ -1,0 +1,1 @@
+nasm -f win32 mp2asm.asm && gcc -c mp2c.c -o mp2c.obj -m32 && gcc mp2c.obj mp2asm.obj -o mp2asm.exe -m32 && mp2asm.exe
