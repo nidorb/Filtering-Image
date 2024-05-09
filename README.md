@@ -11,5 +11,5 @@ This project performs average filtering on an input image, aiming to reduce the 
 
 ## Running the Program
 1. Run the Bat File found int he folder.
-2. If you wish to change the values of the matrix of the image, you may manually change it in the C file. 
+** If you wish to change the values of the matrix of the image, you may manually change it in the C file. 
  
